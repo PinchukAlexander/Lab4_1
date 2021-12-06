@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638557545 source:d:\work\sanek\teach\Інформатика\codeblock\4_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<malloc.h>
+
